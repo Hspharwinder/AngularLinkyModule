@@ -13,3 +13,7 @@ import { LinkyModule } from 'angular-linky';
 class YourAppModule {}
 
 <span [innerHTML]="yourText | linky"></span>
+
+# Dependency 
+
+1. npm i autolinker
